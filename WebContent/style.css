@@ -1,0 +1,43 @@
+
+html
+{
+	background-color: #21618C;
+}
+
+body
+{
+	background-color: white;
+
+}
+
+
+#footer {
+
+	background-color: #21618C;
+	color: white;
+	text-align: center;
+}
+
+#navbar
+{
+	padding-left: 400px;
+	float: right;
+}
+
+.nav2
+{
+
+	
+	float: center;
+	width: 100%;
+	font-size: 25px;
+	background-color: #21618C;
+	color: white;
+	padding-left: 370px;
+}
+
+#logo {
+	width: 50%;
+	height: 100px;
+}
+
